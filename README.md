@@ -1,6 +1,6 @@
 # Induction-Program-Gne
 Ramandeep Singh (CSE)
-# Day 1 – 30 July 2025
+# Day 1 – 31 July 2025
 
 Welcome to my induction diary at GNDEC Ludhiana! Here’s how my first day went, slot by slot.
 
