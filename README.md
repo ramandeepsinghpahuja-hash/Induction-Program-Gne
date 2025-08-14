@@ -93,4 +93,60 @@ Day 2 :-
 ## This lecture was our maths lecture which was taken by Prof. Rajvir Kaur. She asked the basic questions of maths which we studied in 12th. She also told us the important chapters which we have to study in our 1st sem.
 # Timing 11:30am to 12:30pm
 ## BEEE( Basic electric and electronics engg.) lecture was taken by Prof. Mandeep Kaur. She wrote the notes on the board. THese notes were basic notes which we studied in 10+2 class.
+Day 6 (6 august 2025)
+Induction Day 6 summary
+✅**Peer to Peer lecture
 
+In the P2P lecture, our seniors continued teaching us C++. Since some students did not fully understand the last session, they started again from the basics. The lecture continued until 11:00 AM, and they put in their 100% effort to ensure we understood the fundamentals clearly. Their patience and dedication made it easier for everyone to grasp the concepts.
+
+📑Lecture by prof. Jaswant Singh
+
+In the last 30 minutes, Jaswant Sir introduced himself and spoke to us about college etiquette. He also guided us on what to wear and how to maintain a professional and respectful appearance on campus.
+
+📹Mr.Jasvir singh sekhon (_District Resource Person- STEM)
+
+In the absence of Arvind Sir, the lecture was conducted by Jasvir Singh. He began by introducing himself and then spoke about the importance of college etiquette. He guided students on how to maintain proper discipline, interact respectfully with peers and faculty, and conduct themselves in a professional manner. He also shared tips on appropriate dressing for college, emphasizing neatness and simplicity. His talk aimed to help students adapt to the college environment and present themselves confidently.
+
+📈Dr. Lakhvir Singh Khanna (Incharge, CML)
+
+He delivered an insightful session explaining how core branches differ from other streams in engineering. He underlined the significance of seniors and alumni, noting how their guidance and experiences can help students navigate their academic and professional journeys.
+
+He then introduced the Centre for Multi-faceted Learning (CML), outlining its mission and vision. He encouraged students to actively explore the wide range of opportunities available both within the campus and beyond, but reminded them that academic priorities should never be compromised for any extracurricular activity.
+
+Dr. Khanna also introduced the SWAYAM and NPTEL portals, explaining their role in enhancing learning. He guided students on how to search for courses and complete the registration process. These courses, he explained, are valuable for skill development, personality enhancement, and academic growth, and can also contribute towards open electives or an honours degree.
+
+👌Dr. Arvind Dhingra (Director-STEP and incharge-TAC) Towards the end of the session, Arvind Sir arrived and had only about five minutes to speak, as most of the time had been taken by Dr. Lakhvir Singh Khanna’s talk. Understanding that the students were already tired, he kept his introduction brief. He spoke a few encouraging words, assured that he would interact with us more in the future, and concluded by saying that we would meet again soon.
+
+The day started with a P2P lecture for CSE-E students to revise C++ basics, followed by Jaswant Sir’s talk on college etiquette. After lunch, Jasvir Singh Sir delivered a session, and Dr. Lakhvir Singh Khanna discussed core branches, alumni, holistic development, and the CML initiative, also guiding students about SWAYAM and NPTEL courses. In the end, Arvind Sir gave a brief five-minute introduction and promised to meet again.
+
+Day 7 (7 August 2025)
+Induction Day 7 summary
+🧑‍💻Dr. Amit kamra(incharge of-DMC)
+
+On Thursday, 7 August 2025, the session began with Dr. Amit Kamra, who introduced the Digital Media Cell of the college. He explained how it works as a platform to showcase the talents and achievements of students, covering events, activities, and important updates through social media and other online channels. He encouraged students to actively participate in events and share their skills, as the cell also helps in building a strong portfolio for the future.
+
+🔥Dr. Parminder Singh (Dean Student welfare)
+
+Following this, Dr. Parminder Singh took the stage to talk about the importance of mental health and overall well-being. He informed the students about the various cultural clubs, activities, and student welfare resources available in the college. He emphasized balancing academics with extracurricular activities to ensure a healthy college life.
+
+💯Dr. Randhir singh (conduct of examination)
+
+Later, Dr. Randhir Singh guided students about the academic framework, including the exam pattern, attendance requirements, and essential tips to avoid academic stress. He also addressed how students can manage time effectively to meet both academic and personal goals.
+
+📑Prof. Mandeep Kaur
+
+After the break, from 1:30 PM to 2:30 PM, CSE-E students attended a BEEE Lecture in Room F-107 conducted by Prof. Mandeep Kaur from the Electrical Engineering department. In this session, she explained the effect of temperature on resistance, the concept of electrical networks, and different types of networks. Students also made detailed notes during the lecture.
+
+📌prof. Manjot Kaur
+
+From 2:30 PM to 3:30 PM, CSE-E students had their first English Lecture in Room F-107, taught by Prof. Manjot Kaur. As it was the first class, the professor introduced herself and shared her teaching approach. She spoke about the importance of communication skills in both academic and professional life and encouraged students to overcome the fear of communication. She motivated the class to participate actively, practice regularly, and view communication as a powerful tool for success rather than something to be afraid of.
+
+On 7th August 2025, CSE-E students learned about college facilities, welfare services, and exam rules. They studied temperature effects on resistance, network types, and attended their first English lecture on the importance of communication and confidence
+
+Day 8(8 August 2025)
+Induction Day 8 summary
+😄peer to peer lecture
+
+On 08-08-25, the scheduled timetable for CSE-E mentioned a Chemistry lecture from 9:00 AM to 10:30 AM followed by a P2P lecture from 10:30 AM to 12:00 Noon. However, since the Chemistry teacher was busy elsewhere, both sessions were conducted as P2P lectures. During this time, a senior took the class and introduced advanced concepts of C++ programming. The session included explanations of these topics as well as hands-on coding practice, allowing students to apply what they learned in real time. This resulted in the entire morning being dedicated to strengthening C++ coding skills instead of the originally planned mix of Chemistry and P2P.
+
+On 08-08-25, both scheduled lectures for CSE-E were conducted as P2P sessions instead of Chemistry and P2P. A senior taught advanced C++ concepts with practical coding exercises throughout the morning.
